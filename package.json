@@ -1,0 +1,21 @@
+{
+  "name": "tokyo-night-city-vscode-theme",
+  "displayName": "tokyonight-city-vscode-theme",
+  "description": "This theme is an edit based on the \"Just Code Already Theme\" by laskdjals, with a modified color palette that blends shades of cyan with hints of pinkish-violet.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tokyo Night City",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tokyo Night City-color-theme.json"
+      }
+    ]
+  }
+}
