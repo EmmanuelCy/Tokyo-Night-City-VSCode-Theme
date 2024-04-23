@@ -9,6 +9,16 @@
   "categories": [
     "Themes"
   ],
+  "keywords":[
+    "vscode",
+    "theme",
+    "dark",
+    "tokyonight"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+"
+  },
   "contributes": {
     "themes": [
       {
