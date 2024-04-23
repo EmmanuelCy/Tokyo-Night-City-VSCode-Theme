@@ -1,16 +1,31 @@
-# tokyo-night-city-vscode-theme README
 
-## Working with Markdown
+# Tokyo Night City
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Visual Studio Theme
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+Tokyo Night City is a vibrant code theme for Visual Studio Code, inspired by the dazzling energy of Tokyo's nightlife. It combines the alluring neons of Tokyo Night with the cool, calming blues of City Lights, offering a unique and visually stimulating experience for your coding sessions.
 
-## For more information
+## Features
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+- Navy Blue accent
+- Dark base
+- Balanced contrast
 
-**Enjoy!**
+
+## Screenshots
+
+![Tokyo Night City](src/screenshot/tokyo-night-city.png)
+
+
+## Installation
+
+[VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=EmmanuelCy.tokyo-night-city-vscode-theme)
+
+
+    
+## Contributing
+
+Contributions are always welcome!
+
+Please adhere to this project's `code of conduct`.
+
