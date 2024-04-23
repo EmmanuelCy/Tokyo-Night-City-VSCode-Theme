@@ -17,7 +17,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+"
+    "url": "git+https://github.com/EmmanuelCy/tokyo-night-city-vscode-theme"
   },
   "contributes": {
     "themes": [
